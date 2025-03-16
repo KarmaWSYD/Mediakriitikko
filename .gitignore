@@ -1,3 +1,6 @@
+# Githubin Python .gitignore-pohja, muokataan tarvittaessa
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
